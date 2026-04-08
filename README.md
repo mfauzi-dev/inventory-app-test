@@ -40,7 +40,7 @@ Sebelum menjalankan proyek, pastikan sudah menginstall:
 1. Clone repository:
 
 ```bash
-git clone https://github.com/mfauzi-dev/inventory-app-test
+git clone https://github.com/mfauzi-dev/inventory-app-test.git
 ```
 
 2. Install dependency:
@@ -170,7 +170,7 @@ http://127.0.0.1:8000
 * Backend menggunakan migration sehingga database dapat dibuat dari kondisi kosong
 * Web interface mendukung CRUD lengkap
 * API tersedia untuk integrasi dengan aplikasi lain
-* Mobile diimplementasikan sebagai responsive web karena saya belum pernah membuat mobile apps
+* Mobile diimplementasikan sebagai responsive web karena saya belum bisa dan sedang belajar membuat mobile apps
 
 ---
 
