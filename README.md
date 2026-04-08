@@ -40,8 +40,7 @@ Sebelum menjalankan proyek, pastikan sudah menginstall:
 1. Clone repository:
 
 ```bash
-git clone <URL_REPOSITORY>
-cd <NAMA_PROJECT>/web
+git clone https://github.com/mfauzi-dev/inventory-app-test
 ```
 
 2. Install dependency:
